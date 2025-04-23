@@ -16,7 +16,5 @@ Launcher custom codificado basado en WOWLauncher.
 * En algunos casos, desactivar el antivirus. Pueden revisar el código fuente para comprobar que el programa hace lo que hace y no otra cosa.
 
 ### Licencia
-All trademarks referenced herein are the properties of their respective owners. 
-No se usan gráficos ni referencias a ningún juego.
-
-See LICENSE for usage for the code and launcher itself.
+Si bien no se menciona ninguna marca comercial,
+Todas las marcas comerciales pertenecen a sus respectivos dueños.
