@@ -1,0 +1,10 @@
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\bin\Debug\LimboLauncher.exe.config
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\bin\Debug\LimboLauncher.exe
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\bin\Debug\LimboLauncher.pdb
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.csproj.AssemblyReference.cache
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.Form1.resources
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.Properties.Resources.resources
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.csproj.GenerateResource.cache
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.csproj.CoreCompileInputs.cache
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.exe
+C:\Azerothcore-wotlk\LimboLauncher\LimboLauncher\obj\Debug\LimboLauncher.pdb
