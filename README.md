@@ -11,10 +11,11 @@ Launcher custom codificado basado en WOWLauncher.
 #### Para desarrolladores
 * Visual Studio 2019 o 2022 Community
 * uso: cambiar las siguientes líneas, por la dirección de tu servidor:
-        private string urlPatchlist = "https://limbo.org.pe/PatchHD/plist.txt";
-        private string urlParches = "https://limbo.org.pe/PatchHD/";
-** Archivo plist:
-NombreDeArchivoConExtensión HashMD5
+** private string urlPatchlist = "https://limbo.org.pe/PatchHD/plist.txt";
+** private string urlParches = "https://limbo.org.pe/PatchHD/";
+
+* Archivo plist:
+** NombreDeArchivoConExtensión HashMD5
 * No se requiere de modificaciones adicionales, al menos que cambie el código para actualizar realmlist o alguna característica adicional.
 
 #### Para usuarios
