@@ -1,21 +1,25 @@
 # Custom World of Warcraft Launcher
 Launcher custom codificado basado en WOWLauncher.
+He borrado todos los archivos, reemplazándolos por un comprimido.
 
 ### Características
-* Descarga los MPQ actualizados y crea nuevos archivos si existen en el host pero no en la carpeta del wow.
+* Descarga cualquier archivo y crea nuevos archivos si existen en el host pero no en la carpeta del wow.
+* IMPORTANTE: se crea la carpeta Patch-Y.MPQ para guardar archivos individuales, necesario para actualizar algunos servidores
 * Interfaz simple simple, archivo ligero.
 
 ### Requerimientos
-* Windows 10 o mejor.
+* Windows 10 o superior.
 
 #### Para desarrolladores
-* Visual Studio 2019 o 2022 Community
-* uso: cambiar las siguientes líneas en el archivo Form1.cs, por la dirección de tu servidor:
-> private string urlPatchlist = "https://limbo.org.pe/PatchHD/plist.txt";  
-> private string urlParches = "https://limbo.org.pe/PatchHD/";
+* Visual Studio 2022 Community
+* uso: cambiar las siguientes líneas en el archivo Form1.cs con tus propios datos:
+> 23: la URL completa de tu archivo plist.txt
+> 24: la dirección URL raíz de tus parches
+> 25: la dirección de tu servidor, sin HTTP ni parámetros adicionales
+* Compilar y distribuir
 
 * Archivo plist:
-> NombreDeArchivoConExtensión HashMD5
+> DirectorioRelativo/NombreDeArchivoConExtensión HashMD5
 * No se requiere de modificaciones adicionales, al menos que cambie el código para actualizar realmlist o alguna característica adicional.
 
 #### Para usuarios
