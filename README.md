@@ -26,6 +26,16 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 * .NET Desktop Runtime 6.0+
 * En algunos casos, desactivar el antivirus. Pueden revisar el código fuente para comprobar que el programa hace lo que hace y no otra cosa.
 
+### Imágenes
+![launcher](./parchando.png)
+El launcher en acción
+
+![directorio](./directorioWeb.png)
+Directorio donde se encuentra la publicación del patchlist
+
+![archivo](./archivoPLIST.png)
+Contenido de ejemplo del archivo PLIST.TXT
+
 ### Licencia
 Si bien no se menciona ninguna marca comercial,
 Todas las marcas comerciales pertenecen a sus respectivos dueños.
