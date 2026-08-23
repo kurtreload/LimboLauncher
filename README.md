@@ -19,7 +19,10 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 * Compilar y distribuir
 
 * Archivo plist:
-> DirectorioRelativo/NombreDeArchivoConExtensión HashMD5
+Puedes crear/parchar un archivo.<br/>
+Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
+> DirectorioRelativo/NombreDeArchivoConExtensión HashMD5<br/>
+> NombreDeArchivoODirectorioParaBorrar 0
 * No se requiere de modificaciones adicionales, al menos que cambie el código para actualizar realmlist o alguna característica adicional.
 
 #### Para usuarios
