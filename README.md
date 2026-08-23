@@ -18,12 +18,12 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 > 25: la dirección de tu servidor, sin HTTP ni parámetros adicionales
 * Compilar y distribuir
 
-* Archivo plist:
+* Archivo plist:<br/>
 Puedes crear/parchar un archivo.<br/>
 Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
 > DirectorioRelativo/NombreDeArchivoConExtensión HashMD5<br/>
 > NombreDeArchivoODirectorioParaBorrar 0
-* No se requiere de modificaciones adicionales, al menos que cambie el código para actualizar realmlist o alguna característica adicional.
+* No se requiere de modificaciones adicionales.
 
 #### Para usuarios
 * .NET Desktop Runtime 6.0+
