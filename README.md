@@ -18,12 +18,12 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 > 25: la dirección de tu servidor, sin HTTP ni parámetros adicionales
 * Compilar y distribuir
 
-* Archivo plist:<br/>
-Puedes crear/parchar un archivo.<br/>
-Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
+* Archivo plist en la web (URL completa):<br/>
 > DirectorioRelativo/NombreDeArchivoConExtensión HashMD5<br/>
 > NombreDeArchivoODirectorioParaBorrar 0
-* No se requiere de modificaciones adicionales.
+* No se requiere de modificaciones adicionales.<br/>
+Puedes crear/parchar un archivo.<br/>
+Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
 
 #### Para usuarios
 * .NET Desktop Runtime 6.0+
