@@ -3,8 +3,7 @@ Launcher custom codificado basado en WOWLauncher.
 He borrado todos los archivos, reemplazándolos por un comprimido.
 
 ### Características
-* Descarga cualquier archivo y crea nuevos archivos si existen en el host pero no en la carpeta del wow.
-* IMPORTANTE: se crea la carpeta Patch-Y.MPQ para guardar archivos individuales, necesario para actualizar algunos servidores
+* Descarga cualquier archivo y crea nuevos archivos si existen en el host pero no en la carpeta del wow. Si la carpeta especificada no existe, se crea.
 * Interfaz simple simple, archivo ligero.
 
 ### Requerimientos
@@ -31,13 +30,13 @@ Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
 
 ### Imágenes
 ![launcher](./parchando.png)<br/>
-El launcher en acción
+_El launcher en acción_
 
 ![directorio](./directorioWeb.png)<br/>
-Directorio donde se encuentra la publicación del patchlist
+_Directorio donde se encuentra la publicación del patchlist_
 
 ![archivo](./archivoPLIST.png)<br/>
-Contenido de ejemplo del archivo PLIST.TXT
+_Contenido de ejemplo del archivo PLIST.TXT_
 
 ### Licencia
 Si bien no se menciona ninguna marca comercial,
