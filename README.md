@@ -5,6 +5,7 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 ### Características
 * Descarga cualquier archivo y crea nuevos archivos si existen en el host pero no en la carpeta del wow. Si la carpeta especificada no existe, se crea.
 * Interfaz simple simple, archivo ligero.
+* El objetivo del proyecto es poder actualizar y borrar archivos y directorios del cliente, sin necesidad de distribuir parches en formato comprimido.
 
 ### Requerimientos
 * Windows 10 o superior.
@@ -36,7 +37,8 @@ _El launcher en acción_
 _Directorio donde se encuentra la publicación del patchlist_
 
 ![archivo](./archivoPLIST.png)<br/>
-_Contenido de ejemplo del archivo PLIST.TXT_
+_Contenido de ejemplo del archivo PLIST.TXT_<br/>
+El programa parcha el archivo Data/esES/patch-esES-3.MPQ, borra los archivos wxl-awesome-wotlk.dll, etc y actualiza el archivo d3d9.dll.<br/>
 
 ### Licencia
 Si bien no se menciona ninguna marca comercial,
