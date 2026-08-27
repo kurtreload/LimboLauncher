@@ -18,11 +18,11 @@ He borrado todos los archivos, reemplazándolos por un comprimido.
 * Compilar y distribuir
 
 * Archivo plist en la web (URL completa):<br/>
-> DirectorioRelativo/NombreDeArchivoConExtensión HashMD5<br/>
-> NombreDeArchivoODirectorioParaBorrar 0
-* No se requiere de modificaciones adicionales.<br/>
-Puedes crear/parchar un archivo.<br/>
-Puedes borrar un directorio o archivo colocando 0 como hash.<br/>
+Para actualizar archivo: RutaCompleta HashMD5 dirfile<br/>
+Para borrar archivo: RutaCompleta 0 dirfile<br/>
+Para borrar directorio completo: RutaDirectorio 0 directory<br/>
+Para actualizar archivo en la carpeta raíz: Nombrearchivo HashMD5 fileonly<br/><br/>
+* No se requiere de modificaciones adicionales. El tercer campo sirve para que el programa pueda separar directorios de archivos, pudiendo borrar por ejemplo el directorio Data/patch-5.mpq<br/>
 
 #### Para usuarios
 * .NET Desktop Runtime 6.0+
